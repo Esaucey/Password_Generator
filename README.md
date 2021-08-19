@@ -47,3 +47,7 @@ Step 7.
 The box in the the center will display the user's new password after completing all the prompt.
 
 ![Show user's password](Assets/Step_7.PNG)
+
+# Deployment
+
+[Password Generator](https://esaucey.github.io/Password_Generator/)
