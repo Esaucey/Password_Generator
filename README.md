@@ -1,11 +1,11 @@
 # Password_Generator
-This is a random number generated password generator. When the user click on the Generate Password Button,
 
-it will ask a series of questions about the user's preference for their new password. After all the questions
+## Description
 
-have been answered, the middle box will display the password based on user's choice.
+This is a random number generated password generator. When the user click on the Generate Password Button, it will ask a series of questions about the user's preference for their new password. After all the questions have been answered, the middle box will display the password based on user's choice.
 
-# Instruction
+## Instruction
+
 STEP 1.
 
 Click the Generate Password Button.
@@ -48,6 +48,6 @@ The box in the the center will display the user's new password after completing 
 
 ![Show user's password](Assets/Step_7.PNG)
 
-# Deployment
+## Deployment
 
 [Password Generator](https://esaucey.github.io/Password_Generator/)
